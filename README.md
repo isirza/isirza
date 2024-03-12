@@ -42,7 +42,7 @@
 <p align="left">
 <a href="https://codepen.io/Kera505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/kerem-eyvazov-606544287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerem eyvazov" height="40" width="50" /></a>
-<a href="https://www.facebook.com/people/Kerem-Eyvazov/pfbid0gTNTiCJNXb4foMyvt4LQ75D3Hn5qdS8nvDuke9sbNXaCC58G1dPVHwAywvhXk8uUl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kerem Eyvazov" height="40" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008544014269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kerem Eyvazov" height="40" width="50" /></a>
 <a href="https://www.instagram.com/ismayilrzyv?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.kerem_" height="40" width="50" /></a>
 <a href="https://medium.com/@Kera505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Kera505" height="40" width="50" /></a>
 </p>
